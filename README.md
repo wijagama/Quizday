@@ -57,7 +57,7 @@ Geografía,¿Cuántos océanos hay en la Tierra?,"Existen 5 océanos en todo el 
 
 2. Ejecuta el archivo principal:
    ```bash
-   python main.py
+   python QuizDay.py
    ```
 2. Selecciona una categoría de preguntas.
 3. Responde cada pregunta dentro del tiempo límite indicado.
